@@ -1,13 +1,24 @@
-# Machine Learning Engineer Nanodegree
-## Specializations
-## Project: Capstone Proposal and Capstone Project
+# Capstone Project
+## ECML/PKDD 15: Taxi Trip Time Prediction 
 
-**Note**
+## Table of Contents  
+- [Install](#install)
+- [Data](#data)
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly before submitting these two stages which encapsulate your capstone.
 
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
 
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+
+### <a name="install"></a>Install
+
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+
+### <a name="data"></a>Data
+
+The dataset and evaluation script of the project can be downloaded [here](https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/data).
+
