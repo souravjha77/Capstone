@@ -22,3 +22,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 The dataset and evaluation script of the project can be downloaded [here](https://www.kaggle.com/c/pkdd-15-taxi-trip-time-prediction-ii/data).
 
+### <a name="install"></a>Run
+1.run directly the  models pkl file.
+   a.pass the parameters  test filepath,path of model file(pkl file) and 
+   b. call the runPkl in runPkl.py file
