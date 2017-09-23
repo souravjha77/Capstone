@@ -24,5 +24,5 @@ The dataset and evaluation script of the project can be downloaded [here](https:
 
 ### <a name="install"></a>Run
 1.run directly the  models pkl file.
-   a.pass the parameters  test filepath,path of model file(pkl file) and 
-   b. call the runPkl in runPkl.py file
+   -pass the parameters  test filepath,path of model file(pkl file) and 
+   -call the runPkl in runPkl.py file
